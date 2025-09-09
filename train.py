@@ -27,7 +27,7 @@ svc_param_grid = {
 # Create a grid search
 svc_grid = GridSearchCV(SVC(), svc_param_grid, cv=5, scoring='accuracy', n_jobs=-1)
 
-#########################################################################################################################
+########################################################################################################################
 
 # Random Forest Model
 from sklearn.ensemble import RandomForestClassifier
@@ -43,7 +43,7 @@ rf_param_grid = {
 # Create a grid search
 rf_grid = GridSearchCV(RandomForestClassifier(random_state=42), rf_param_grid, cv=5, scoring='accuracy', n_jobs=-1)
 
-#########################################################################################################################
+########################################################################################################################
 
 
 # Logistic Regression Model

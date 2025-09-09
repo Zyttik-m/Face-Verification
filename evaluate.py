@@ -27,7 +27,6 @@ def evaluate(model_file):
 
     print(f"Evaluating {model_file}")
 
-    # Check that model file is no larger than 20 MB
     if os.path.getsize(model_file) > 80 * 1024 * 1024:
         print("ERROR: Model file is larger than the allowed 80 MB limit.")
         return
