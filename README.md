@@ -355,31 +355,11 @@ This implementation incorporates established research in:
 - Breiman, L. (2001). "Random Forests"
 - Cortes, C. & Vapnik, V. (1995). "Support-Vector Networks"
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🔒 Privacy & Ethics
-
-### Data Protection
-- **No Data Storage** - Images processed in memory only
-- **Privacy First** - No personal data retention
-- **Secure Processing** - Encrypted data transmission
-- **Compliance Ready** - GDPR and privacy regulation compatible
-
-### Ethical Considerations
-- **Bias Mitigation** - Diverse training data recommendations
-- **Transparency** - Open-source algorithm implementation
-- **Consent** - Clear usage guidelines and permissions
-- **Fairness** - Equal performance across demographic groups
-
 ## 👨‍💻 Author
 
 **Kittithat Chalermvisutkul**
 - **GitHub**: [@Zyttik-m](https://github.com/Zyttik-m)
-- **LinkedIn**: [linkedin.com/in/timmy-l-chan](https://linkedin.com/in/timmy-l-chan)
-- **Email**: kittithatck@gmail.com
-- **Portfolio**: [MathtoData.com](https://mathtodata.com)
+- **LinkedIn**: [linkedin.com/in/Kittithat-CH](https://linkedin.com/in/Kittithat-CH)
 
 ## 🙏 Acknowledgments
 
@@ -388,23 +368,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Computer Vision Community** - Research and best practices
 - **Open Source Contributors** - Inspiration and code examples
 
-## 📞 Support & Contact
-
-### Getting Help
-- **Issues**: [GitHub Issues](https://github.com/Zyttik-m/Face-Verification/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/Zyttik-m/Face-Verification/discussions)
-- **Email**: kittithatck@gmail.com
-
-### Commercial Support
-For enterprise implementations, custom development, or consulting:
-- **Email**: kittithatck@gmail.com
-- **LinkedIn**: [Professional Profile](https://linkedin.com/in/timmy-l-chan)
-
----
-
-⭐ **If you find this project useful, please give it a star!**  
-🔗 **Check out my other computer vision and machine learning projects!**
-
-![Face Verification Demo](https://via.placeholder.com/800x400/2e8b57/ffffff?text=Face+Verification+System+Demo)
-
-*Built with ❤️ for secure and reliable biometric verification*
